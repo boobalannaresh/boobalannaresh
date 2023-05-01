@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning <b> Full Stack Developer - MERN Stack Developer </b>
 
-- 👨‍💻 All of my projects are available at <a href="https://portfolio-task-tawny.vercel.app/" target="_blank" rel="noreferrer">PROT </a>
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-task-tawny.vercel.app/" target="_blank" >PROT </a>
 
 - 💬 Ask me about **ReactJS, Material-UI, MySql, MongoDB, NodeJS**
 

@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning <b> Full Stack Developer - MERN Stack Developer </b>
 
-- 👨‍💻 All of my projects are available at <a href="https://portfolio-task-tawny.vercel.app/" target="_blank" >PROT </a>
+- 👨‍💻 All of my projects are available at    -    <a href="https://portfolio-task-tawny.vercel.app/" target="_blank" ><b>My Portfolio</b></a>
 
 - 💬 Ask me about **ReactJS, Material-UI, MySql, MongoDB, NodeJS**
 
-- 📫 How to reach me [nareshbabuk21@gmail.com](nareshbabuk21@gmail.com)
+- 📫 How to reach me <b> [nareshbabuk21@gmail.com](nareshbabuk21@gmail.com)</b>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_3wSbSijwL-Qwn0nElY5a4YDkc5B2JP6/view?usp=sharing](https://drive.google.com/file/d/1_3wSbSijwL-Qwn0nElY5a4YDkc5B2JP6/view?usp=sharing)
+- 📄 Know about my experiences  -    <a href="https://drive.google.com/file/d/1_3wSbSijwL-Qwn0nElY5a4YDkc5B2JP6/view?usp=sharing" target="_blank" ><b>My Resume</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

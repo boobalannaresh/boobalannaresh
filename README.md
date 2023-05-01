@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ReactJS, Material-UI, MySql, MongoDB, NodeJS**
 
-- 📫 How to reach me <b> [nareshbabuk21@gmail.com](nareshbabuk21@gmail.com)</b>
+- 📫 How to reach me  -  <b><a href="mailto:nareshbabuk21@gmail.com" target="_blank" rel="noreferrer">nareshbabuk21@gmail.com</a></b>
 
 - 📄 Know about my experiences  -    <a href="https://drive.google.com/file/d/1_3wSbSijwL-Qwn0nElY5a4YDkc5B2JP6/view?usp=sharing" target="_blank" ><b>My Resume</b></a>
 
